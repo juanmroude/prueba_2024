@@ -1,0 +1,16 @@
+Tienda de dulces: The Candy Sugar
+
+header
+nav (inicio - tienda - contáctanos - tiendas - Faqs)
+footer
+estilos de color, fondo y texto
+index.php:
+	carrusel imagenes de productos
+	3 cards con productos y precio
+
+views:
+	tienda: 8  productos de dulces
+	contactanos: formulario de contacto
+			control mediante js
+	tiendas: 2 direcciones que incluyan googlemaps
+	faqs:	10 preguntas frecuentes con respuesta con estilo acordeon
