@@ -1,1 +1,3 @@
-<h1>hola rooude</h1>
+# La web de Candy Sugar
+
+proyecto web para practicar git y github
