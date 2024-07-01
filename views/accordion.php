@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Acordeón de dulceria</title>
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-</head>
-
-<body>
     <div class="container mt-5">
         <h2>Preguntas frecuentes</h2>
         <div class="accordion" id="dulceria">
@@ -16,8 +5,7 @@
             <div class="card">
                 <div class="card-header" id="headingOne">
                     <h2 class="mb-0">
-                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne"
-                            aria-expanded="true" aria-controls="collapseOne">
+                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                             ¿Se realizan envios a domicilio?
                         </button>
                     </h2>
@@ -32,8 +20,7 @@
             <div class="card">
                 <div class="card-header" id="headingTwo">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                            data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                             ¿Aceptan devoluciones o cambios?
                         </button>
                     </h2>
@@ -50,8 +37,7 @@
             <div class="card">
                 <div class="card-header" id="headingThree">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                            data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                             ¿Qué tipos de dulces ofrecen?
                         </button>
                     </h2>
@@ -67,8 +53,7 @@
             <div class="card">
                 <div class="card-header" id="headingFour">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                            data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                             ¿Puedo personalizar mis pedidos?
                         </button>
                     </h2>
@@ -84,8 +69,7 @@
             <div class="card">
                 <div class="card-header" id="headingFive">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                            data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                             ¿Tienen opciones sin azúcar o para personas con alergias?
                         </button>
                     </h2>
@@ -102,8 +86,7 @@
             <div class="card">
                 <div class="card-header" id="headingSix">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                            data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                             ¿Cuánto tiempo tardan en procesar un pedido?
                         </button>
                     </h2>
@@ -119,8 +102,7 @@
             <div class="card">
                 <div class="card-header" id="headingSeven">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                            data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
                             ¿Ofrecen descuentos para compras al por mayor?
                         </button>
                     </h2>
@@ -136,8 +118,7 @@
             <div class="card">
                 <div class="card-header" id="headingEight">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                            data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
                             ¿Dónde están ubicados?
                         </button>
                     </h2>
@@ -153,8 +134,7 @@
             <div class="card">
                 <div class="card-header" id="headingNine">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                            data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
                             ¿Ofrecen tarjetas de regalo?
                         </button>
                     </h2>
@@ -170,8 +150,7 @@
             <div class="card">
                 <div class="card-header" id="headingTen">
                     <h2 class="mb-0">
-                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                            data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
                             ¿Ofrecen servicios de catering para eventos?
                         </button>
                     </h2>
@@ -186,10 +165,3 @@
             </div>
         </div>
     </div>
-
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-</body>
-
-</html>
