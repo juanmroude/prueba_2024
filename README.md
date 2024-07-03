@@ -3,11 +3,11 @@
 proyecto web para practicar git y github
 
 # Buenos cursos de Git y github
-<a href="https://www.youtube.com/watch?v=3GymExBkKjE&t=8153s&pp=ygUVY3Vyc28gZGUgZ2l0IHkgZ2l0aHVi" style="padding: 0px 20px">
+<a href="https://www.youtube.com/watch?v=3GymExBkKjE&t=8153s&pp=ygUVY3Vyc28gZGUgZ2l0IHkgZ2l0aHVi" style="padding: 20px 20px">
   <img src="https://img.youtube.com/vi/3GymExBkKjE/maxresdefault.jpg" alt="Curso de git y gihub mouredev" width="300"/>
 </a>
 
-<a href="https://www.youtube.com/watch?v=9ZJ-K-zk_Go&t=4426s&pp=ygUVY3Vyc28gZGUgZ2l0IHkgZ2l0aHVi" style="padding: 0px 20px">
+<a href="https://www.youtube.com/watch?v=9ZJ-K-zk_Go&t=4426s&pp=ygUVY3Vyc28gZGUgZ2l0IHkgZ2l0aHVi" style="padding: 20px 20px">
   <img src="https://img.youtube.com/vi/9ZJ-K-zk_Go/maxresdefault.jpg" alt="Curso de git y gihub dalto" width="300"/>
 </a>
 
