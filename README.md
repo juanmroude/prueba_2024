@@ -3,11 +3,8 @@
 proyecto web para practicar git y github
 
 # Buenos cursos de Git y github
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3GymExBkKjE?si=WJmf9GG7Lf-yU_c1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Curso de git y gihub mourdev]([https://img.youtube.com/vi/ID_DEL_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO](https://www.youtube.com/watch?v=3GymExBkKjE&t=8153s&pp=ygUVY3Vyc28gZGUgZ2l0IHkgZ2l0aHVi))
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ZJ-K-zk_Go?si=y-ky0kLQMH24qBxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7ylE8cm3mb0?si=iS2lh6A5ida6Dr7B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > Hay para hacer dulce en Yt pero esos son bastante buenos
 
